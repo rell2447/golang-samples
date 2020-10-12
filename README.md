@@ -1,5 +1,7 @@
 # Google Cloud Platform Go Samples
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/510332b5a94d4435b7eaa4b21e614def)](https://app.codacy.com/gh/rell2447/golang-samples?utm_source=github.com&utm_medium=referral&utm_content=rell2447/golang-samples&utm_campaign=Badge_Grade_Settings)
+
 [![Kokoro Build Status][kokoro_badge]][kokoro_link]
 
 This repository holds sample code written in Go that demonstrates the Google
